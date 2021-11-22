@@ -106,8 +106,23 @@
                         "textSize": 10,
                         "fontFamily": "Segoe UI",
                         "border": true
-                    }
-		]
+                    },
+		"visualHeader":[
+               {
+                  "show":true,
+			 "showFilterRestatementButton":false,
+			 "showOptionsMenu":false,
+			 "showSeeDataLayoutToggleButton":false,
+			 "showPinButton":false,
+			 "showDrillDownExpandButton":false,
+			 "showDrillDownLevelButton":false,
+			 "showDrillToggleButton":false,
+			 "showDrillUpButton":false,
+			 "showDrillRoleSelector":false,
+			 "showVisualErrorButton":false,
+			 "showVisualWarningButton":false,
+			 "showVisualInformationButton":false
+               }]
             }
         }
     }
